@@ -59,6 +59,7 @@ print(f"Predicted value: {pre}")
 
 ### X nd Y values:
 ![alt text](output/XValue.png)
+
 ![alt text](output/Yvalue.png)
 
 ### Predicted Value :
